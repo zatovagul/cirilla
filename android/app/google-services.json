@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328591269375",
+    "project_id": "zakazatlending",
+    "storage_bucket": "zakazatlending.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328591269375:android:97078e35f5b33dcde01bca",
+        "android_client_info": {
+          "package_name": "ru.zakazatlending.cirilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328591269375-o5rab0v2t689o8kfrgrv81dd96hh5tno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMuLIw9DfpE7dr-p00r9rFTlU2aMrAz9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328591269375-o5rab0v2t689o8kfrgrv81dd96hh5tno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
